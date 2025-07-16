@@ -141,7 +141,8 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Julia Olszewski (student) | USDA Forest Service | JuliaOlsz | [https://juliaolsz.github.io/](https://juliaolsz.github.io/) |
 | Elyna Grapstein (student) | US EPA | elyna-grapstein-gov | [https://elyna-grapstein-gov.github.io](https://elyna-grapstein-gov.github.io) |
 | Charisma Harris (student) | US EPA | charris2511 | [https://github.com/charris2511](https://github.com/charris2511)] |
-| Krishnakumar AP (Student)      | MCC       | krishnaap | [https://krishnaap.github.io/]([(https://krishnaap.github.io/esii_course/)) |
+| Krishnakumar AP (Student)      | MCC       | krishnaap | [https://krishnaap.github.io/]([(https://krishnaap.github.io/esii_course/)) |Vrije Univeri
+| Maja Micevska  | Vrije Universiteit Brussel (VUB)  | MajaMicevska  | [https://https://majamicevska.github.io/](https://https://majamicevska.github.io/)
 
 # **Code of Conduct** 
 ### (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
